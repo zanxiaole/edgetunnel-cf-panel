@@ -7,3 +7,4 @@ keep_vars = true
 binding = "KV"			#KV绑定名默认不可修改
 
 id = "01cec9bf3129418f834133188e75af9e"				#KV数据库id
+
